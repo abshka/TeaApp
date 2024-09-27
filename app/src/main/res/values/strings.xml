@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TeaApp</string>
+    <string name="ContentDescription">Логотип кафе</string>
+    <string name="hint_name">Введите ваше имя:</string>
+    <string name="hint_password">Введите ваш пароль:</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="button">СОЗДАТЬ ЗАКАЗ</string>
+    <string name="item_sugar">Сахар</string>
+    <string name="item_milk">Молоко</string>
+    <string name="make_order">Сделать заказ</string>
+    <string name="order_text">Ваш заказ:</string>
+</resources>
